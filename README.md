@@ -16,7 +16,7 @@ JMS2.0规范原文参见[点击此处](https://jcp.org/en/jsr/detail?id=343)，�
 翻译组成员列表如下：
 * kimmking(http://blog.csdn.net/kimmking)
 * leisore(https://github.com/leisore)
-* 香农312
+* 香农312(http://yongchun.github.io/)
 * 兜兜转转
 * sky
 * SoMedAy
