@@ -11,7 +11,7 @@
 在线预览版本地址: [在线文档](http://kimmking.gitbooks.io/jms20cn/)
 | 问题反馈地址：[问题反馈](https://github.com/kimmking/JMS2CN/issues)
 
-JMS2.0规范原文参见[点击此处](https://jcp.org/en/jsr/detail?id=343)，原文版权参见上述链接。本翻译文档由JMS2.0规范中文翻译组于2014年7月开始翻译，版权由原文版权所有者和翻译组共同所有。参与翻译请发邮件到：kimmking@163.com。
+JMS2.0规范原文参见[点击此处](https://jcp.org/en/jsr/detail?id=343)，原文版权参见上述链接。本翻译文档由JMS2.0规范中文翻译组于2014年7月开始翻译，版权由原文版权所有者和翻译组共同所有。参与翻译请发邮件到：kimmking@163.com 或 提交到[github仓库](https://github.com/kimmking/JMS2CN)。
 
 翻译组成员列表如下：
 * [kimmking](https://github.com/kimmking)(http://blog.csdn.net/kimmking)
