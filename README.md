@@ -17,9 +17,9 @@ JMS2.0规范原文参见[点击此处](https://jcp.org/en/jsr/detail?id=343)，�
 * [kimmking](https://github.com/kimmking)(http://blog.csdn.net/kimmking)
 * [leisore](https://github.com/leisore)(https://github.com/leisore)
 * [香农312](https://github.com/yongchun)(http://yongchun.github.io/)
-* [兜兜转转](https://github.com/badguyding)(https://github.com/badguyding)
-* sky
-* SoMedAy
+* [longding](https://github.com/badguyding)(http://longding.iteye.com)
+* Sky.Apollo
+* [SoMedA~y](https://github.com/yanghongzhuang)(http://jaystefanie.iteye.com/)
 
 完成百分比：3/16 ~ 19%
 
@@ -30,15 +30,15 @@ JMS2.0规范原文参见[点击此处](https://jcp.org/en/jsr/detail?id=343)，�
 | 03 | 20 | kimmking | doing | 2014-07-26 |
 | 04 | 8 | 香农312 | doing | 2014-07-26 |
 | 05 | 2 | leisore | doing | 2014-07-26 |
-| 06 | 14 | 兜兜转转 | doing | 2014-07-26 |
+| 06 | 14 | longding | doing | 2014-07-26 |
 | 07 | 10 | leisore | done | 2014-07-26 |
-| 08 | 10 | sky | doing | 2014-07-26 |
+| 08 | 10 | Sky.Apollo | doing | 2014-07-26 |
 | 09 | 2 | - | - | - |
 | 10 | 4 | - | - | - |
 | 11 | 8 | - | - | - |
 | 12 | 8 | - | - | - |
 | 13 | 2 | - | - | - |
-| 14 | 12 | SoMedAy | doing | 2014-07-26|
+| 14 | 12 | SoMedA~y | doing | 2014-07-26|
 | 15 | 20 | - | - | - |
 | 16 | 8 | - | - | - |
 
