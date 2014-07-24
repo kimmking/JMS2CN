@@ -20,6 +20,7 @@ JMS2.0规范原文参见[点击此处](https://jcp.org/en/jsr/detail?id=343)，�
 * [longding](https://github.com/badguyding)(http://longding.iteye.com)
 * Sky.Apollo
 * [SoMedA~y](https://github.com/yanghongzhuang)(http://jaystefanie.iteye.com/)
+* [Harrison](https://github.com/huyisong1413)(http://blog.sina.com.cn/kaixiangda)
 
 完成百分比：3/16 ~ 19%
 
@@ -35,8 +36,8 @@ JMS2.0规范原文参见[点击此处](https://jcp.org/en/jsr/detail?id=343)，�
 | 08 | 10 | Sky.Apollo | doing | 2014-07-26 |
 | 09 | 2 | - | - | - |
 | 10 | 4 | - | - | - |
-| 11 | 8 | - | - | - |
-| 12 | 8 | - | - | - |
+| 11 | 8 | Harrison | doing | 2014-08-02 |
+| 12 | 8 | Harrison | doing | 2014-08-02 |
 | 13 | 2 | - | - | - |
 | 14 | 12 | SoMedA~y | doing | 2014-07-26|
 | 15 | 20 | - | - | - |
