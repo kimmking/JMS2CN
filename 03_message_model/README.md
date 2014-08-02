@@ -1,1 +1,1 @@
-# message model
+# JMS消息模型

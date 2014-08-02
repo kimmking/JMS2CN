@@ -1,1 +1,1 @@
-# administratered objects
+# 受管对象

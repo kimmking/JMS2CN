@@ -22,25 +22,25 @@ JMS2.0规范原文参见[点击此处](https://jcp.org/en/jsr/detail?id=343)，�
 * [SoMedA~y](https://github.com/yanghongzhuang)(http://jaystefanie.iteye.com/)
 * [Harrison](https://github.com/huyisong0329)(http://blog.sina.com.cn/kaixiangda)
 
-完成百分比：3/16 ~ 19%
+完成百分比：8/16 ~ 50%
 
 | 章节 | 页数 | 翻译者 | 状态 | 计划完成时间 |
 | -- | -- | -- | -- | -- |
 | 01 | 4 | kimmking | done | 2014-07-20 |
 | 02 | 12 | kimmking | done | 2014-07-20 |
-| 03 | 20 | kimmking | doing | 2014-07-26 |
-| 04 | 8 | 香农312 | doing | 2014-07-26 |
-| 05 | 2 | leisore | doing | 2014-07-26 |
-| 06 | 14 | longding | doing | 2014-07-26 |
-| 07 | 10 | leisore | done | 2014-07-26 |
-| 08 | 10 | Sky.Apollo | doing | 2014-07-26 |
+| 03 | 20 | kimmking | doing | 2014-08-03 |
+| 04 | 8 | 香农312 | done-check | 2014-07-26 |
+| 05 | 2 | leisore | done | 2014-07-26 |
+| 06 | 14 | longding | done-check | 2014-07-26 |
+| 07 | 10 | leisore | done-check | 2014-07-26 |
+| 08 | 10 | Sky.Apollo | done-check | 2014-07-26 |
 | 09 | 2 | - | - | - |
 | 10 | 4 | - | - | - |
 | 11 | 8 | Harrison | doing | 2014-08-02 |
 | 12 | 8 | Harrison | doing | 2014-08-02 |
 | 13 | 2 | - | - | - |
-| 14 | 12 | SoMedA~y | doing | 2014-07-26|
-| 15 | 20 | - | - | - |
+| 14 | 12 | SoMedA~y | done-check | 2014-07-26|
+| 15 | 20 | SoMedA~y | doing | - |
 | 16 | 8 | - | - | - |
 
 
